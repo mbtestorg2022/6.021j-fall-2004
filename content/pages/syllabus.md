@@ -4,7 +4,7 @@ title: Syllabus
 uid: 18b8242e-6a69-a8fe-8104-4a564d2c2037
 ---
 
-"In scientific thought we adopt the simplest theory which will explain all the facts under consideration and enable us to predict new facts of the same kind. The catch in this criterion lies in the word 'simplest'. It is really an aesthetic canon such as we find implicit in our criticisms of poetry or painting. The layman finds such a law as ![Equation.](/courses/electrical-engineering-and-computer-science/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/syllabus/eqn1.jpg) less simple than 'it oozes', of which it is the mathematical statement. The physicist reverses this judgment, and his statement is certainly the more fruitful of the two, so far as prediction is concerned."
+"In scientific thought we adopt the simplest theory which will explain all the facts under consideration and enable us to predict new facts of the same kind. The catch in this criterion lies in the word 'simplest'. It is really an aesthetic canon such as we find implicit in our criticisms of poetry or painting. The layman finds such a law as {{< resource "ee1eb47d-160e-522e-8fe3-051b0c001c20" >}} less simple than 'it oozes', of which it is the mathematical statement. The physicist reverses this judgment, and his statement is certainly the more fruitful of the two, so far as prediction is concerned."
 
 \- Haldane, 1985
 
